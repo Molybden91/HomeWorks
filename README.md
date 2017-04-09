@@ -1,5 +1,6 @@
 # HomeWorks
-Homeworks for SBT
+Homeworks for SBT.
+
 Homework №1: 
 
 Collections: NSPointerArray, NSHashTable, NSMapTable, NSArray, NSSet, NSDictionary, NSCountedSet, NSOrderedSet.
